@@ -1,3 +1,11 @@
+[lab 1](#lab-1)<br />
+[lab 2](#lab-2)<br />
+[lab 3](#lab-3)<br />
+[lab 4](#lab-4)<br />
+[lab 5](#lab-5)<br />
+[lab 6](#lab-6)<br />
+[lab 7](#lab-7)
+
 ### lab 1
 **Темы:**
 * константы и переменные
